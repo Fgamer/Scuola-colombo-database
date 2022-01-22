@@ -3,10 +3,10 @@
 <!-- dropdown menu -->
 <ul class="menu cf">
     <li>
-        <a href="">Aiuti scolastici</a>
+        <a href=""> Strumenti </a>
         <ul class="submenu">
             <li><a href="Tema.php">Calcolatore temi</a></li>
-            <li><a href="">Submenu item</a></li>
+            <li><a href="Matematica.php">Matematica</a></li>
             <li><a href="">Submenu item</a></li>
             <li><a href="">Submenu item</a></li>
         </ul>
