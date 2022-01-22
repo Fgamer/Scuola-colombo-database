@@ -1,0 +1,19 @@
+/* general styles */
+html{
+    background-color: #71747f;
+}
+/* ideas style */
+    /* border style */
+button.ideas{
+    margin-bottom: 2px;
+    border-bottom-style: solid;
+    border-width: 2px;
+    border-top: solid;
+}
+    /* background style */
+button.ideas{
+    background-color: #71747f;
+}
+button.ideas:hover{
+    opacity: 80%;
+}

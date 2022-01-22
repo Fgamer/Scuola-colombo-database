@@ -1,0 +1,14 @@
+form.Temi_counter {
+    padding-left: 23%;
+    padding-right: 50%;
+    background-color: #71747f;
+}
+
+input.theme {
+    flex: auto;
+}
+
+.submit_button {
+    text-align: center;
+    padding-left: 10%;
+}
